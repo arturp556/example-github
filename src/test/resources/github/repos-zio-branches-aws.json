@@ -1,0 +1,242 @@
+[
+  {
+    "name": "gh-pages",
+    "commit": {
+      "sha": "5283ed8e3f3f35477d6aa95c02d7c2237d8b9ef8",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/5283ed8e3f3f35477d6aa95c02d7c2237d8b9ef8"
+    },
+    "protected": false
+  },
+  {
+    "name": "master",
+    "commit": {
+      "sha": "fa103bb0dc28e8e530b2e8e7dabae6fd3469e544",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/fa103bb0dc28e8e530b2e8e7dabae6fd3469e544"
+    },
+    "protected": false
+  },
+  {
+    "name": "update/aws-core-2.16.75",
+    "commit": {
+      "sha": "088fabc592f5ec2b97fc3b86042d7ec85aa0682e",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/088fabc592f5ec2b97fc3b86042d7ec85aa0682e"
+    },
+    "protected": false
+  },
+  {
+    "name": "update/aws-core-2.16.82",
+    "commit": {
+      "sha": "b5c735ff945ccbafe73f094a412f6caa8f55c2a3",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/b5c735ff945ccbafe73f094a412f6caa8f55c2a3"
+    },
+    "protected": false
+  },
+  {
+    "name": "update/aws-core-2.16.98",
+    "commit": {
+      "sha": "b1fce49fce2d30d5912a445f1c3b9cdfe4bcff47",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/b1fce49fce2d30d5912a445f1c3b9cdfe4bcff47"
+    },
+    "protected": false
+  },
+  {
+    "name": "update/aws-core-2.17.3",
+    "commit": {
+      "sha": "88241b481b2eb587d104f3fea41474e603f9cf0f",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/88241b481b2eb587d104f3fea41474e603f9cf0f"
+    },
+    "protected": false
+  },
+  {
+    "name": "update/aws-core-2.17.6",
+    "commit": {
+      "sha": "9f012b9cd5744409d53ac160d12e2e8d705c15a4",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/9f012b9cd5744409d53ac160d12e2e8d705c15a4"
+    },
+    "protected": false
+  },
+  {
+    "name": "update/aws-core-2.17.13",
+    "commit": {
+      "sha": "6c719f8c5b13cf8e28d73f6bc3d4a97cf608d053",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/6c719f8c5b13cf8e28d73f6bc3d4a97cf608d053"
+    },
+    "protected": false
+  },
+  {
+    "name": "update/aws-core-2.17.43",
+    "commit": {
+      "sha": "815cf57086f455a321f82c4b3da578def9ebd073",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/815cf57086f455a321f82c4b3da578def9ebd073"
+    },
+    "protected": false
+  },
+  {
+    "name": "update/aws-core-2.17.48",
+    "commit": {
+      "sha": "ff35a09cf25e5b5c10c7f0bf8db5f0983cd619bb",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/ff35a09cf25e5b5c10c7f0bf8db5f0983cd619bb"
+    },
+    "protected": false
+  },
+  {
+    "name": "update/aws-core-2.17.141",
+    "commit": {
+      "sha": "0feba9372cd816021e45c96ccbab1e9a477c5a0a",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/0feba9372cd816021e45c96ccbab1e9a477c5a0a"
+    },
+    "protected": false
+  },
+  {
+    "name": "update/aws-core-2.17.224",
+    "commit": {
+      "sha": "8a0b90aa0dc9502fb83b2892785e7acc53021851",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/8a0b90aa0dc9502fb83b2892785e7acc53021851"
+    },
+    "protected": false
+  },
+  {
+    "name": "update/aws-core-2.20.12",
+    "commit": {
+      "sha": "84cb5a4bc062c7a6d7d1a8bc71b746b0301d4fee",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/84cb5a4bc062c7a6d7d1a8bc71b746b0301d4fee"
+    },
+    "protected": false
+  },
+  {
+    "name": "update/aws-core-2.21.15",
+    "commit": {
+      "sha": "881bd9a82ea4d63899b1b947d24025bc36eaf549",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/881bd9a82ea4d63899b1b947d24025bc36eaf549"
+    },
+    "protected": false
+  },
+  {
+    "name": "update/aws-core-2.21.46",
+    "commit": {
+      "sha": "80df27c77088da6ee4906ceb18eb8df3363091a5",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/80df27c77088da6ee4906ceb18eb8df3363091a5"
+    },
+    "protected": false
+  },
+  {
+    "name": "update/aws-core-2.32.11",
+    "commit": {
+      "sha": "9284fe8de30c84dd87ef479f80520747c28492a7",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/9284fe8de30c84dd87ef479f80520747c28492a7"
+    },
+    "protected": false
+  },
+  {
+    "name": "update/cats-effect-3.2.0",
+    "commit": {
+      "sha": "9d334acefa7d11d65732b1bbb769ba34df798c88",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/9d334acefa7d11d65732b1bbb769ba34df798c88"
+    },
+    "protected": false
+  },
+  {
+    "name": "update/cats-effect-3.2.4",
+    "commit": {
+      "sha": "1e27471d2350d2dfa052bfc364827590546b29e3",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/1e27471d2350d2dfa052bfc364827590546b29e3"
+    },
+    "protected": false
+  },
+  {
+    "name": "update/cats-effect-3.2.5",
+    "commit": {
+      "sha": "ae6151da21f6b537fab52fa576a898de77fb02e1",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/ae6151da21f6b537fab52fa576a898de77fb02e1"
+    },
+    "protected": false
+  },
+  {
+    "name": "update/cats-effect-3.2.8",
+    "commit": {
+      "sha": "b05ff27b25edf0617b198eb299bc8c1c8be64c35",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/b05ff27b25edf0617b198eb299bc8c1c8be64c35"
+    },
+    "protected": false
+  },
+  {
+    "name": "update/cats-effect-3.3.13",
+    "commit": {
+      "sha": "24cadd4713a05d4f1bc5f2f288d73e7613e67f51",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/24cadd4713a05d4f1bc5f2f288d73e7613e67f51"
+    },
+    "protected": false
+  },
+  {
+    "name": "update/cats-effect-3.6.3",
+    "commit": {
+      "sha": "e98c7ec3e3e15057c3d3c8054daaef4251b7e1fc",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/e98c7ec3e3e15057c3d3c8054daaef4251b7e1fc"
+    },
+    "protected": false
+  },
+  {
+    "name": "update/fs2-reactive-streams-3.0.2",
+    "commit": {
+      "sha": "8cec7bd05c9ac02221a267994287272f985dd0a3",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/8cec7bd05c9ac02221a267994287272f985dd0a3"
+    },
+    "protected": false
+  },
+  {
+    "name": "update/fs2-reactive-streams-3.0.3",
+    "commit": {
+      "sha": "7f95e8fc0177be62551c03e972da78191f918410",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/7f95e8fc0177be62551c03e972da78191f918410"
+    },
+    "protected": false
+  },
+  {
+    "name": "update/fs2-reactive-streams-3.0.4",
+    "commit": {
+      "sha": "5ab7555d19e2cb3103d330a012b66fe01e2cb640",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/5ab7555d19e2cb3103d330a012b66fe01e2cb640"
+    },
+    "protected": false
+  },
+  {
+    "name": "update/fs2-reactive-streams-3.0.5",
+    "commit": {
+      "sha": "14b44717a863dac713021bb37e0c672a0f1f32c3",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/14b44717a863dac713021bb37e0c672a0f1f32c3"
+    },
+    "protected": false
+  },
+  {
+    "name": "update/fs2-reactive-streams-3.2.9",
+    "commit": {
+      "sha": "0cde137f451258d82d7070707688a0eb5bbafd00",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/0cde137f451258d82d7070707688a0eb5bbafd00"
+    },
+    "protected": false
+  },
+  {
+    "name": "update/http4s-blaze-client-0.23.1",
+    "commit": {
+      "sha": "cec46b93313f11fd1498ef2265672649fe6506a5",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/cec46b93313f11fd1498ef2265672649fe6506a5"
+    },
+    "protected": false
+  },
+  {
+    "name": "update/http4s-blaze-client-0.23.3",
+    "commit": {
+      "sha": "c9beccd174bba31e2fd6855043686f265270eefe",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/c9beccd174bba31e2fd6855043686f265270eefe"
+    },
+    "protected": false
+  },
+  {
+    "name": "update/http4s-blaze-client-0.23.4",
+    "commit": {
+      "sha": "7c04c0921a1d1bb28e5ed5e9ac7d21225c23f4f8",
+      "url": "https://api.github.com/repos/zio/zio-aws/commits/7c04c0921a1d1bb28e5ed5e9ac7d21225c23f4f8"
+    },
+    "protected": false
+  }
+]
